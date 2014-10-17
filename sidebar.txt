@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[npn:home|Door43 (npn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-npn|d43-npn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-npn/archive/master.zip|d43-npn.zip]]
+
+**Recent Changes**
+{{changes>ns = npn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/npn|Ethnologue data]]
+
